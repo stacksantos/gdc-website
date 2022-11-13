@@ -1,4 +1,4 @@
-# gdc-website
+# Green Dragon Craftz Website
 
 Website for handmade jewelry business.
 
